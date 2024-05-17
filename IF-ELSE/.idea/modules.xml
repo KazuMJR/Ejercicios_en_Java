@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Determinar mayor o menor de edad/Determinar mayor o menor de edad.iml" filepath="$PROJECT_DIR$/Determinar mayor o menor de edad/Determinar mayor o menor de edad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Determinar numero mayor/Determinar numero mayor.iml" filepath="$PROJECT_DIR$/Determinar numero mayor/Determinar numero mayor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Determinar par o impar/Determinar par o impar.iml" filepath="$PROJECT_DIR$/Determinar par o impar/Determinar par o impar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IF-ELSE.iml" filepath="$PROJECT_DIR$/IF-ELSE.iml" />
+    </modules>
+  </component>
+</project>
