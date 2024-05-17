@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dia de la semana/Dia de la semana.iml" filepath="$PROJECT_DIR$/Dia de la semana/Dia de la semana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios Anteriores/Ejercicios Anteriores.iml" filepath="$PROJECT_DIR$/Ejercicios Anteriores/Ejercicios Anteriores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWITCH.iml" filepath="$PROJECT_DIR$/SWITCH.iml" />
+    </modules>
+  </component>
+</project>
