@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Determinar el Factorial/..iml" filepath="$PROJECT_DIR$/Determinar el Factorial/..iml" />
+      <module fileurl="file://$PROJECT_DIR$/FOR-WHILE.iml" filepath="$PROJECT_DIR$/FOR-WHILE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Numeros Impares/Numeros Impares For.iml" filepath="$PROJECT_DIR$/Numeros Impares/Numeros Impares For.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Numeros Impares While/Numeros Impares While.iml" filepath="$PROJECT_DIR$/Numeros Impares While/Numeros Impares While.iml" />
+    </modules>
+  </component>
+</project>
